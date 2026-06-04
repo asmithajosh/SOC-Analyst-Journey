@@ -40,6 +40,21 @@ This repository documents my cybersecurity learning journey, labs, notes, and pr
 
 ## Learning Log
 
+### Day 1
+
+Activities Completed:
+
+- Created GitHub account and repository
+- Created TryHackMe account
+- Set up GitHub Desktop
+- Installed VS Code
+- Created portfolio folder structure
+- Planned SOC Analyst roadmap
+
+Files:
+- README.md
+
+
 ### Networking
 
 #### Day 2
