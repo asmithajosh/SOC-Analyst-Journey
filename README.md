@@ -4,167 +4,119 @@
 
 Hi, I'm M Asmitha.
 
-I am pursuing a BSc in Digital & Cyber Forensic Science and aim to become a SOC Analyst while building strong Digital Forensics skills before graduating in 2027.
+I am pursuing a BSc in Digital & Cyber Forensic Science and working toward becoming a SOC Analyst while building practical cybersecurity and digital forensics skills before graduating in 2027.
 
-This repository documents my cybersecurity learning journey, notes, lab reports, and hands-on practice.
-
----
-
-## Repository Structure
-
-* Networking
-* Linux
-* Python
-* Digital-Forensics
-* Reports
+This repository documents my learning journey, notes, lab reports, and hands-on cybersecurity practice.
 
 ---
 
 ## Current Progress
 
-### Completed
+### Completed TryHackMe Rooms
 
-* GitHub Setup
-* TryHackMe Account Setup
-* Offensive Security Intro
-* Defensive Security Intro
-* Networking Fundamentals
-* Linux Fundamentals Part 1
+✅ Offensive Security Intro
 
-### In Progress
+✅ Defensive Security Intro
 
-* Linux Fundamentals
-* SOC Analyst Path
-* Digital Forensics
-* Python Fundamentals
+✅ Linux Fundamentals Part 1
+
+✅ What is Networking?
+
+✅ Security Principles
+
+✅ Network Security Essentials
 
 ---
 
-## Learning Log
+## Skills Learned
 
-### Day 1
+### Cybersecurity
 
-Activities Completed:
-
-* Created GitHub account and repository
-* Created TryHackMe account
-* Installed GitHub Desktop
-* Installed VS Code
-* Created portfolio folder structure
-* Planned SOC Analyst roadmap
-
-Files:
-
-* README.md
-
----
-
-### Day 2
-
-Topics Covered:
-
-* DNS
-* IP Addresses
-* Packets
-* HTTP
-* HTTPS
-
-Files:
-
-* Networking/Networking-Day1.md
-* Reports/Day2-Lab-Report.md
-
----
-
-### Day 3
-
-Completed:
-
-* Linux Fundamentals Part 1
-
-Files:
-
-* Linux/Linux-Day1.md
-* Reports/Day3-Lab-Report.md
-
----
-
-## TryHackMe Rooms Completed
-
-* Offensive Security Intro
-* Defensive Security Intro
-* Linux Fundamentals Part 1
-
----
-
-## Future Learning Roadmap
+* SOC Fundamentals
+* Blue Team Basics
+* Red Team Basics
+* Security Principles
+* Log Analysis
+* Threat Detection
 
 ### Linux
 
-* Linux Fundamentals Part 2
-* Linux Fundamentals Part 3
+* pwd
+* ls
+* cd
+* cat
+* grep
+* find
 
-### SOC Analyst
+### Networking
 
-* Cyber Defence Frameworks
-* Security Monitoring
-* Log Analysis
-* SIEM Fundamentals
-* Incident Response
+* IP Addressing
+* DNS
+* HTTP / HTTPS
+* MAC Addresses
+* ICMP
+* Firewall Concepts
+* VPN Concepts
+* IDS Concepts
 
-### Digital Forensics
+### SOC Analyst Skills
 
-* Evidence Collection
-* Disk Analysis
-* Memory Analysis
+* Firewall Log Analysis
+* VPN Log Analysis
+* IDS Log Analysis
+* IOC Identification
 * Timeline Analysis
-
-### Python
-
-* Python Basics
-* Automation Scripts
-* Cybersecurity Tools
+* Attack Investigation
+* C2 Detection
+* Data Exfiltration Detection
 
 ---
 
-## Certifications Goal
+## Repository Structure
 
-Future Certifications:
+```text
+Networking/
+Linux/
+Python/
+Digital-Forensics/
+Reports/
+Screenshots/
+```
 
-* TryHackMe SOC Level 1
-* CompTIA Security+
-* Blue Team Level 1 (BTL1)
+---
+
+## Current Roadmap
+
+### Completed
+
+* Offensive Security Intro
+* Defensive Security Intro
+* Linux Fundamentals Part 1
+* What is Networking?
+* Security Principles
+* Network Security Essentials
+
+### Next
+
+* Linux Fundamentals Part 2
+* Linux Fundamentals Part 3
+* Intro to LAN
+* OSI Model
+* TCP/IP Fundamentals
+* Windows Fundamentals
 
 ---
 
 ## Goal
 
-Become job-ready for a SOC Analyst role by April 2027 while building strong Digital Forensics skills.
+Become job-ready for a SOC Analyst Tier 1 role before graduation while building a strong cybersecurity portfolio.
 
 ---
 
 ## Profiles
 
-### GitHub
-
+GitHub:
 https://github.com/asmithajosh
 
-### TryHackMe
-
+TryHackMe:
 https://tryhackme.com/p/asmithajosh16
-
----
-
-## Progress Tracker
-
-| Area               | Status                                 |
-| ------------------ | -------------------------------------- |
-| Networking         | ✅ Fundamentals Completed               |
-| Linux              | 🔄 Linux Fundamentals Part 1 Completed |
-| Python             | ⏳ Not Started                          |
-| Digital Forensics  | 🔄 In Progress                         |
-| SOC Analyst Skills | 🔄 In Progress                         |
-
----
-
-
